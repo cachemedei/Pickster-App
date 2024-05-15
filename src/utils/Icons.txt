@@ -1,0 +1,50 @@
+ARROWS
+
+LEFT
+import { FaArrowCircleLeft } from "react-icons/fa";
+import { MdArrowBackIos } from 'react-icons/md';
+
+RIGHT
+import { FaArrowCircleRight } from "react-icons/fa";
+import { MdArrowForwardIos } from 'react-icons/md';
+
+UP
+import { FaArrowUp } from 'react-icons/fa';
+
+DOWN
+import { FaArrowDown } from 'react-icons/fa';
+
+HELP/INFO
+import { FaInfoCircle } from 'react-icons/fa';
+import { FaInfo } from "react-icons/fa";
+
+CLOSE/EXIT
+import { IoIosCloseCircle } from 'react-icons/io';
+import { MdClose } from 'react-icons/md';
+
+MOVIE
+import { BiSolidMoviePlay } from "react-icons/bi";
+
+BACK
+import { RiArrowGoBackLine } from "react-icons/ri";
+
+HOME
+import { FaHome } from "react-icons/fa";
+
+DICE
+import { FaDice } from "react-icons/fa";
+
+LIKE
+import { FaThumbsUp } from "react-icons/fa6";
+import { FaHeart } from 'react-icons/fa';
+import { FaRegHeart } from 'react-icons/fa';
+
+DISLIKE
+import { FaThumbsDown } from "react-icons/fa6";
+
+
+BIN
+import { ImBin } from 'react-icons/im';
+
+BURGERBAR
+import { RxHamburgerMenu } from 'react-icons/rx';
