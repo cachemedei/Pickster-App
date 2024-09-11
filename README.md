@@ -19,7 +19,7 @@
 ## Screenshots
 
 #### Homepage: Desktop
-(src/assets/homepage-lg.png)
+(./assets/homepage-lg.png)
 
 #### Homepage: Mobile
 (src/assets/homepage-sm.png)
