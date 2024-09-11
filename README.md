@@ -19,20 +19,20 @@
 ## Screenshots
 
 #### Homepage: Desktop
-(./assets/homepage-lg.png)
+![App Screenshot](./assets/homepage-lg.png)
 
 #### Homepage: Mobile
-(src/assets/homepage-sm.png)
+![App Screenshot](./src/assets/homepage-sm.png)
 
 #### Result Page: Desktop
-(src/assets/movie-lg.png)
+![App Screenshot](./src/assets/movie-lg.png)
 
 #### Result Page: Mobile
-src/assets/movie-sm.png
+![App Screenshot](./src/assets/movie-sm.png)
 
 #### Sign In Page: Desktop
-(src/assets/signinpage-lg.png)
+![App Screenshot](./src/assets/signinpage-lg.png)
 
 #### Sign In Page: Mobile
-(src/assets/signinpage-sm.png)
+![App Screenshot](./src/assets/signinpage-sm.png)
 
