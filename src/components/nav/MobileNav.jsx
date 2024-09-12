@@ -26,9 +26,6 @@ const MobileNav = ({ toggleMenu }) => {
             Account
           </NavLink>
           <button onClick={handleLogout}>Log Out</button>
-          <NavLink onClick={toggleMenu} to='/about'>
-            About
-          </NavLink>
         </div>
       ) : (
         <div className='flex flex-col items-center gap-2 border-b-2 border-b-[#a23939] w-[80%] p-4'>
@@ -40,9 +37,6 @@ const MobileNav = ({ toggleMenu }) => {
           </NavLink>
           <NavLink onClick={toggleMenu} to='/signup'>
             Sign Up
-          </NavLink>
-          <NavLink onClick={toggleMenu} to='/about'>
-            About
           </NavLink>
         </div>
       )}

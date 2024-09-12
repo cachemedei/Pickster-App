@@ -1,8 +1,7 @@
 # Pickster with React + Vite & Firebase
--	Users can select a genre from a list and have a random movie generated
--	If they like the movie they can see which streaming providers have it for either rent, purchase or subscription
--	If they don’t like it, they can roll the dice again for the same genre selection or head back to the main page and change the genre selection
-- When a user is logged in they can add a movie to their watch later list
+- A responsively designed app for generating a random movie suggestion based on a chosen genre from a user
+- If the user is interested in watching it another time they can save it to a 'watch later list'
+- The app utilises The Movie Database's API to provide information on movies including which streaming services offer it to rent/buy/watch with a subscription
 
 ## Plans
 -	Provider/Subscription Preferences (e.g only generate movies available on netflix)
@@ -19,7 +18,7 @@
 ## Screenshots
 
 #### Homepage: Desktop
-![App Screenshot](./assets/homepage-lg.png)
+![App Screenshot](./src/assets/homepage-lg.png)
 
 #### Homepage: Mobile
 ![App Screenshot](./src/assets/homepage-sm.png)
