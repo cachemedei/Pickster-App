@@ -1,19 +1,18 @@
 # Pickster with React + Vite & Firebase
-- A responsively designed app for generating a random movie suggestion based on a chosen genre from a user
-- If the user is interested in watching it another time they can save it to a 'watch later list'
-- The app utilises The Movie Database's API to provide information on movies including which streaming services offer it to rent/buy/watch with a subscription
+
+- A ReactJS-powered web application that suggests a random movie to watch based on the users preferred genre. 
+- Styled with TailwindCSS for a modern, responsive design.
+- Integrated with The Movie Database (TMDb) API to fetch movie data and information reading which streaming services offer it to rent, buy or watch with a subscription.
+- Uses Firebase for user authentication, allowing users to log in securely and save their favourite movie suggestions. 
 
 ## Plans
 -	Provider/Subscription Preferences (e.g only generate movies available on netflix)
--	Link to streaming service (TMDB has no deep links so thinking about what to do)
+-	Links to streaming sites 
 
 ## Libraries & Frameworks
 - Tailwind CSS
 - React Icons
 - Axios
-
-## API
-- The Movie Database (TMDB)
 
 ## Screenshots
 
